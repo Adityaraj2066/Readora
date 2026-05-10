@@ -229,39 +229,45 @@ Password: Admin@123
 
 ---
 
-# 💡 Key Learnings
+# 💡 What I Learned
 
-* ASP.NET Core MVC Architecture
-* Authentication & Authorization
-* CRUD Operations
-* Repository Pattern
-* Database Design
-* Session Management
-* Entity Framework Core
+Through building **Readora**, I gained hands-on experience with:
+
+✨ ASP.NET Core MVC Architecture
+✨ Authentication & Authorization using ASP.NET Identity
+✨ CRUD Operations with Entity Framework Core
+✨ Repository Pattern & Clean Code Structure
+✨ SQL Server Database Design
+✨ Session & State Management
+✨ Admin Dashboard & Inventory Management
+✨ Responsive UI Development using Bootstrap 5
 
 ---
 
-# 🌟 Future Improvements
+# 🚀 Future Enhancements
 
-* Payment Gateway Integration
-* Wishlist Feature
-* Email Notifications
-* JWT Authentication
-* AI-Based Book Recommendations
+* 💳 Payment Gateway Integration
+* ❤️ Wishlist & Favorites System
+* 📧 Email Notifications
+* 🔐 JWT Authentication & Role Management
+* 🤖 AI-Based Book Recommendation System
+* ☁️ Cloud Deployment & CI/CD Integration
 
 ---
 
 # 👨‍💻 Developer
 
-### Aditya Raj
+## Aditya Raj
 
-Full Stack Developer passionate about building scalable web applications using ASP.NET Core, Java, Spring Boot, and backend technologies.
+Passionate Full Stack Developer focused on building scalable and user-friendly web applications using modern backend technologies.
 
-* GitHub: https://github.com/Adityaraj2066
-* LinkedIn: https://www.linkedin.com/in/aditya-raj007/
+### 🌐 Connect With Me
+
+* GitHub → https://github.com/Adityaraj2066
+* LinkedIn → https://www.linkedin.com/in/aditya-raj007/
 
 ---
 
 # ⭐ Support
 
-If you found this project useful, consider giving it a star ⭐
+If you found this project helpful or interesting, consider giving it a ⭐ on GitHub.
