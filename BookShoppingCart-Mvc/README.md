@@ -6,16 +6,15 @@ A modern full-stack online bookstore and shopping cart application built using A
 
 ## 🚀 Features
 
-* User Authentication & Authorization
-* Browse Books by Genre
-* Add to Cart Functionality
-* Checkout System
+* Secure User Authentication & Authorization
+* Browse Books by Categories & Genres
+* Add to Cart & Checkout System
 * Order Management
 * Admin Dashboard
-* Stock Management
-* Book & Genre CRUD Operations
+* Inventory & Stock Management
+* CRUD Operations for Books & Genres
 * Top Selling Books Report
-* Responsive UI using Bootstrap
+* Responsive UI with Bootstrap 5
 
 ---
 
@@ -26,7 +25,7 @@ A modern full-stack online bookstore and shopping cart application built using A
 * Entity Framework Core
 * SQL Server
 * Bootstrap 5
-* Identity Authentication
+* ASP.NET Identity
 
 ---
 
@@ -63,12 +62,6 @@ BookShoppingCartMvc.sln
 
 Update your connection string inside:
 
-```bash
-appsettings.json
-```
-
-Example:
-
 ```json
 "ConnectionStrings": {
   "conn": "data source=YOUR_SERVER;initial catalog=ReadoraDB;integrated security=true;encrypt=false"
@@ -87,8 +80,6 @@ update-database
 
 ## 5️⃣ Run Project
 
-Press:
-
 ```bash
 Ctrl + F5
 ```
@@ -106,32 +97,146 @@ Password: Admin@123
 
 # 📸 Screenshots
 
-## Homepage
+## 🏠 Homepage
 
 ![Homepage](./BookShoppingCart-Mvc/screenshots/1.jpg)
 
-## Login
+---
+
+## 📚 Browse Books
+
+![Books](./BookShoppingCart-Mvc/screenshots/2.jpg)
+
+---
+
+## 🔑 Login Page
 
 ![Login](./BookShoppingCart-Mvc/screenshots/3.jpg)
 
-## Cart
+---
+
+## 📝 Registration Page
+
+![Register](./BookShoppingCart-Mvc/screenshots/4.jpg)
+
+---
+
+## 🛒 Add To Cart
+
+![Add To Cart](./BookShoppingCart-Mvc/screenshots/5.jpg)
+
+---
+
+## 🛍 Shopping Cart
 
 ![Cart](./BookShoppingCart-Mvc/screenshots/6.jpg)
 
-## Admin Dashboard
+---
+
+## 💳 Checkout
+
+![Checkout](./BookShoppingCart-Mvc/screenshots/7.jpg)
+
+---
+
+## ✅ Order Success
+
+![Order Success](./BookShoppingCart-Mvc/screenshots/8_order_success.jpg)
+
+---
+
+## 🔐 Admin Login
+
+![Admin Login](./BookShoppingCart-Mvc/screenshots/9_admin_login.jpg)
+
+---
+
+## 📊 Admin Dashboard
 
 ![Dashboard](./BookShoppingCart-Mvc/screenshots/10%20admin%20dashboard.jpg)
 
 ---
 
+## 📦 Orders Management
+
+![Orders](./BookShoppingCart-Mvc/screenshots/11%20admin%20orders.jpg)
+
+---
+
+## 📄 Order Details
+
+![Order Details](./BookShoppingCart-Mvc/screenshots/12%20admin%20order%20detail.jpg)
+
+---
+
+## 🔄 Update Order Status
+
+![Update Status](./BookShoppingCart-Mvc/screenshots/13%20Update%20Order%20Status.jpg)
+
+---
+
+## 📈 Stock Management
+
+![Stock](./BookShoppingCart-Mvc/screenshots/14%20%20display%20stock.jpg)
+
+---
+
+## ✏️ Update Stock
+
+![Update Stock](./BookShoppingCart-Mvc/screenshots/15%20update%20stock.jpg)
+
+---
+
+## 🧩 Genre Management
+
+![Genres](./BookShoppingCart-Mvc/screenshots/16%20display%20genres.jpg)
+
+---
+
+## ➕ Add Genre
+
+![Add Genre](./BookShoppingCart-Mvc/screenshots/17%20add%20genre.jpg)
+
+---
+
+## ✏️ Update Genre
+
+![Update Genre](./BookShoppingCart-Mvc/screenshots/18%20Update%20Genre.jpg)
+
+---
+
+## 📚 Book Management
+
+![Books](./BookShoppingCart-Mvc/screenshots/19%20display%20books.jpg)
+
+---
+
+## ➕ Add Book
+
+![Add Book](./BookShoppingCart-Mvc/screenshots/20%20add%20books.jpg)
+
+---
+
+## ✏️ Update Book
+
+![Update Book](./BookShoppingCart-Mvc/screenshots/21%20update%20book.jpg)
+
+---
+
+## 🔥 Top Selling Books
+
+![Top Selling](./BookShoppingCart-Mvc/screenshots/22%20top%20selling%20books.jpg)
+
+---
+
 # 💡 Key Learnings
 
-* ASP.NET MVC Architecture
+* ASP.NET Core MVC Architecture
 * Authentication & Authorization
 * CRUD Operations
 * Repository Pattern
-* Session Management
 * Database Design
+* Session Management
 * Entity Framework Core
 
 ---
@@ -142,19 +247,21 @@ Password: Admin@123
 * Wishlist Feature
 * Email Notifications
 * JWT Authentication
-* AI-based Book Recommendation
+* AI-Based Book Recommendations
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Developer
 
-## Aditya Raj
+### Aditya Raj
+
+Full Stack Developer passionate about building scalable web applications using ASP.NET Core, Java, Spring Boot, and backend technologies.
 
 * GitHub: https://github.com/Adityaraj2066
-* LinkedIn: Add your LinkedIn profile link
+* LinkedIn: https://www.linkedin.com/in/aditya-raj007/
 
 ---
 
 # ⭐ Support
 
-If you like this project, consider giving it a star ⭐
+If you found this project useful, consider giving it a star ⭐
